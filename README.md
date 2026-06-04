@@ -79,3 +79,9 @@ Hands-on cloud security project using Prowler, an open-source AWS security scann
 4. Review HTML report in `./prowler-output/`
 
 > ⚠️ Never commit AWS credentials, account IDs, or access keys to this repository.
+
+---
+
+## Scan Reports
+- 📊 [Before Remediation Report](./report-before.html)
+- 📊 [After Remediation Report](./report-after.html)
